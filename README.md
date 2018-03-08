@@ -9,14 +9,14 @@ A Webpack3 + React + Redux and some flavours to quick setup
 yarn install
 ```
 
-###Development
+### Development
 
 Development
 ```shell
 yarn run dev
 ```
 
-###production
+### Production
 
 Build
 

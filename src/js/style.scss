@@ -1,0 +1,10 @@
+@import '../scss/variable.scss';
+
+
+.layout {
+  h1 {
+    font-weight: $font-light;
+    color: $color-default;
+    font-size: $large;
+  }  
+}

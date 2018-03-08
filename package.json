@@ -1,5 +1,5 @@
 {
-  "name": "map",
+  "name": "webpack-bootstrap",
   "version": "1.0.0",
   "description": "A Webpack 3 + React + Redux + Sass bootstrap app with some added flavours like hot reload and build tool",
   "main": "webpack.config.js",

@@ -1,5 +1,12 @@
 # webpack-bootstrap
 A Webpack3 + React + Redux and some flavours to quick setup
+This package includes:
+
+react
+Redux
+react-redux
+sass
+and more...
 
 1. Clone the repo
 
